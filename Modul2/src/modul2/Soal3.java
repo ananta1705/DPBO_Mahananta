@@ -2,12 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+//Ananta Puti Maharani
+//103124400040
 package modul2;
 
-/**
- *
- * @author ASUS
- */
 public class Soal3 {
     public static double cToF(double c) { return c * 9 / 5 + 32; }
     public static double fToC(double f) { return (f - 32) * 5 / 9; }

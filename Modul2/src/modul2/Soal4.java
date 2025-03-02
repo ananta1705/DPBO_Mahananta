@@ -2,12 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+//Ananta Puti Maharani
+//103124400040
 package modul2;
 
-/**
- *
- * @author ASUS
- */
+
 public class Soal4 {
     public static void main(String[] args) {
         // Array yang diberikan
