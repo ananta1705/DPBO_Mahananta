@@ -8,28 +8,8 @@ package quis1;
  *
  * @author ASUS
  */
-public class Truk {
-class Vehicle {
-    String plateNumber, type;
-    double speed;
-
-    Vehicle(String plateNumber, double speed, String type) {
-        this.plateNumber = plateNumber;
-        this.speed = speed;
-        this.type = type;
-    }
-
-    double calculateTravelTime(double distance) {
-        return distance / speed;
-    }
-
-    void displayInfo(double distance) {
-        System.out.printf("%s [%s] - Speed: %.1f km/h\n", type, plateNumber, speed);
-        System.out.printf("Travel Time: %.2f hours\n\n", calculateTravelTime(distance));
-    }
-}
-
 public class Main {
+
     public static void main(String[] args) {
         double distance = 200;
         Vehicle[] vehicles = {
@@ -43,7 +23,4 @@ public class Main {
             v.displayInfo(distance);
         }
     }
-}
-
-
 }
