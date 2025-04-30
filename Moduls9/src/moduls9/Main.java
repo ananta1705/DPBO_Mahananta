@@ -8,7 +8,7 @@ package moduls9;
  *
  * @author ASUS
  */
-// Main.java
+// Ananta Puti Maharani
 public class Main {
     public static void main(String[] args) {
         Appliance[] appliances = new Appliance[2];
