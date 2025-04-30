@@ -1,35 +1,26 @@
-# 🚀 Tugas Dasar PBO (Java)
+# 💡 DPBO_Mahananta - Java OOP Projects
 
-## 📌 Deskripsi
-Repositori ini berisi tugas mata kuliah **Dasar Pemrograman Berorientasi Objek** menggunakan **Java**.
+Selamat datang di repositori ini! 🎉  
+Repositori ini berisi kumpulan tugas dan proyek yang saya kerjakan selama perkuliahan **DPBO (Dasar Pemrograman Berorientasi Objek)** di semester ini, menggunakan bahasa **Java**.
 
-## 📂 Struktur
-```
-📁 src/       # Kode sumber
-📄 README.md  # Dokumentasi
-```
+---
 
-## ⚡ Cara Menjalankan
-```bash
-🔥 git clone https://github.com/username/nama-repo.git
-📂 cd nama-repo
-💻 javac src/NamaFile.java
-🚀 java src/NamaFile
-```
+## 📁 Struktur Folder
 
-## 🔑 Konsep Dasar
-- 🏗 **Class & Object**
-- 🔒 **Encapsulation**
-- 👪 **Inheritance**
-- 🔄 **Polymorphism**
-
-## 📝 Contoh Kode
-```java
-public class Mahasiswa {
-    private String nama;
-    public Mahasiswa(String nama) { this.nama = nama; }
-    public void tampilkan() { System.out.println("📢 Nama: " + nama); }
-}
-```
+| Folder | Keterangan |
+|--------|------------|
+| `Modul1 - Modul9` | Latihan dan tugas mingguan untuk setiap pertemuan |
+| `Quis1` | Tugas kuis berisi implementasi konsep OOP |
+| `StudentManagement` | Aplikasi manajemen mahasiswa sederhana |
+| `Penjualan_Buku` | Simulasi sistem penjualan buku |
+| `Tikketingalpro` | Aplikasi tiket berbasis GUI |
+| `ZeroWasteSmartKitchen` | Proyek akhir: sistem dapur pintar dengan konsep **Zero-Waste** ♻️ |
 
 
+---
+
+## 🚀 Cara Menjalankan
+
+1. Clone repositori:
+   ```bash
+   git clone https://github.com/ananta1705/DPBO_Mahananta.git
