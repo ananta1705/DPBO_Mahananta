@@ -8,7 +8,7 @@ package moduls9;
  *
  * @author ASUS
  */
-// Kendaraan.java
+//ananta
 class Kendaraan {
     protected String namaKendaraan;
 
