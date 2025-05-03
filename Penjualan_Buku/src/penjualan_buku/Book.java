@@ -16,7 +16,6 @@ public class Book {
     private int price;
     private int stockQuantity;
 
-    // Constructor
     public Book(String title, String author, int price, int stockQuantity) {
         this.title = title;
         this.author = author;
@@ -24,7 +23,7 @@ public class Book {
         this.stockQuantity = stockQuantity;
     }
 
-    // Getter methods
+   
     public String getTitle() {
         return title;
     }
@@ -58,7 +57,7 @@ public class Book {
         this.stockQuantity = stockQuantity;
     }
 
-    // toString method to return book information
+    
     @Override
     public String toString() {
         return "Judul: " + title + "\n" +
